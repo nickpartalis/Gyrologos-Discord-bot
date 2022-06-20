@@ -17,5 +17,4 @@ Other features include:
 ![Screenshot](https://user-images.githubusercontent.com/4154061/174610242-e0f4e6ab-0f35-4037-8398-aa57a19f6787.png)
 ![Screenshot (1)](https://user-images.githubusercontent.com/4154061/174610248-b068d6dd-044a-4ce3-8240-403317173972.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/4154061/174610903-5987c737-d2fb-45b9-ac1b-4434dbc06394.png)
-
-###### Note: The name Gyrologos is a wordplay in Greek, as "gyros" is both the word for "turn" and the fast food Gyros.!
+###### Note: The name Gyrologos is a wordplay in Greek, as "gyros" is both the word for "turn" and the fast food Gyros.
